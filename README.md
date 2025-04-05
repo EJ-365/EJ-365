@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EJ-365
+- 👋 Hi, I’m Ejay E. Gabriel
 - 👀 I’m interested in web development and FrontEnd Developer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on FrontEnd projects
